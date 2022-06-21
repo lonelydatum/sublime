@@ -1,0 +1,21 @@
+{
+	"caret_extra_bottom": 3,
+	"caret_extra_top": 3,
+	"caret_extra_width": 2,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"default_encoding": "UTF-8",
+	"ensure_newline_at_eof_on_save": false,
+	"font_size": 12,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"JavaScript & NodeJS Snippets",
+		"Markdown",
+		"Vintage",
+	],
+	"overlay_scroll_bars": "enabled",
+	"tab_size": 4,
+	"theme": "Default.sublime-theme",
+	"translate_tabs_to_spaces": false,
+	"trim_trailing_white_space_on_save": false,
+}

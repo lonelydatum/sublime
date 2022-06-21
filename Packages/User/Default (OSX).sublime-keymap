@@ -1,0 +1,43 @@
+[
+	{ "keys": ["f5"], "command": "refresh_folder_list" },
+	{ "keys": ["ctrl+1"], "command": "focus_group", "args": { "group": 0 } },
+	{ "keys": ["ctrl+2"], "command": "focus_group", "args": { "group": 1 } },
+	{ "keys": ["ctrl+3"], "command": "focus_group", "args": { "group": 2 } },
+	{ "keys": ["ctrl+4"], "command": "focus_group", "args": { "group": 3 } },
+	{ "keys": ["ctrl+5"], "command": "focus_group", "args": { "group": 4 } },
+	{ "keys": ["ctrl+6"], "command": "focus_group", "args": { "group": 5 } },
+	{ "keys": ["ctrl+7"], "command": "focus_group", "args": { "group": 6 } },
+	{ "keys": ["ctrl+8"], "command": "focus_group", "args": { "group": 7 } },
+	{ "keys": ["ctrl+9"], "command": "focus_group", "args": { "group": 8 } },
+	 
+    {
+        "keys": ["ctrl+up"],
+        "command": "emmet_increment_number",
+        "args": { "delta": 1 }
+    },
+    {
+        "keys": ["ctrl+down"],
+        "command": "emmet_increment_number",
+        "args": { "delta": -1 }
+    },
+    {
+        "keys": ["alt+up"],
+        "command": "emmet_increment_number",
+        "args": { "delta": 0.1 }
+    },
+    {
+        "keys": ["alt+down"],
+        "command": "emmet_increment_number",
+        "args": { "delta": -0.1 }
+    },
+    {
+        "keys": ["shift+alt+up"],
+        "command": "emmet_increment_number",
+        "args": { "delta": 10 }
+    },
+    {
+        "keys": ["shift+alt+down"],
+        "command": "emmet_increment_number",
+        "args": { "delta": -10 }
+    }
+]

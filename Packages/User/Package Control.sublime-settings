@@ -1,0 +1,35 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ApplySyntax",
+		"AutoFileName",
+		"Babel",
+		"Babel Snippets",
+		"Color Highlighter",
+		"Colorsublime",
+		"CSS Extended Completions",
+		"Emmet",
+		"Handlebars",
+		"Increment Decrement",
+		"Increment Selection",
+		"JsPrettier",
+		"JSX",
+		"Package Control",
+		"RawLineEdit",
+		"ReIndent",
+		"Sass",
+		"SCSS",
+		"Seti_UI",
+		"Seti_UX",
+		"SublimeLinter-jsxhint",
+		"Takana",
+		"Terminal",
+		"Text Pastry",
+		"Themr",
+		"VueFormatter"
+	],
+}

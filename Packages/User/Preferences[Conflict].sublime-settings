@@ -1,0 +1,18 @@
+{
+	"caret_extra_bottom": 3,
+	"caret_extra_top": 3,
+	"caret_extra_width": 2,
+	"color_scheme": "Packages/User/SublimeLinter/deep_blue_see (SL).tmTheme",
+	"default_encoding": "UTF-8",
+	"font_size": 14,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Colorsublime",
+		"Markdown",
+		"Vintage"
+	],
+	"overlay_scroll_bars": "enabled",
+	"theme": "Seti.sublime-theme",
+	"trim_trailing_white_space_on_save": false
+}
